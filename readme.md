@@ -1,6 +1,7 @@
-### exercício:
-* subir projetos já feitos no github
-* colocar o link do repositório do github no projeto aprendendo-git-e-github
+# **Aula de Git e Github - Reprograma BR**
+*Aula de Git e Github ministrado no curso de Desenvolvimento Front-End*
+Turma online - 2019.
+
 
 ##### - no projeto aprendendo-git-e-github
   * clone 
